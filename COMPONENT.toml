@@ -3,7 +3,7 @@ name = "SigmaOS-sigma-display"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "sigma-display component"
+description = "SigmaOS sigma-display - modular Rust crate for the SigmaOS system"
 upstream = []
 
 [contract]
